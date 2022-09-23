@@ -281,3 +281,7 @@ section:nth-of-type(even) {
   h2, h5{
     text-align: center;
   }
+
+  .inf{
+    text-align: center;
+  }
